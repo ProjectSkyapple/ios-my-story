@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.githubusercontent.com/media/ProjectSkyapple/CodePath-ios-102-main-23S/main/My%20Story/MyStoryGIF.gif?token=AIX4YTUYDKZCZAZSIQMBDGDD7Q5XE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.githubusercontent.com/media/ProjectSkyapple/ios-my-story/main/My%20Story/MyStoryGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS.
 
