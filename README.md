@@ -5,7 +5,7 @@ Projects currently in this repository:
 - Unit 1: My Story
 
 
-# Project 1 - *My Story*
+## Project 1 - *My Story*
 
 Submitted by: **Aaron Jacob**
 
